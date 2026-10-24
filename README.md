@@ -10,8 +10,8 @@
 
 ## Другие работы семестра
 
-[Исходники и отчёты второго семестра](https://github.com/Assweg/nstu/tree/main/2sem) собраны в общем каталоге.
+[Исходники и отчёты второго семестра](https://github.com/Assweg/nstu#2-семестр) собраны в общем каталоге.
 
 ---
 
-[Все учебные работы](https://github.com/Assweg/nstu) · [Профиль Assweg](https://github.com/Assweg)
+[Каталог учебных репозиториев](https://github.com/Assweg/nstu) · [Профиль Assweg](https://github.com/Assweg)
